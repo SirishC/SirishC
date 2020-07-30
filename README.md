@@ -6,4 +6,11 @@
 
 </h1>
 
+<h4>
+:heart: Coding | Web Development | OpenToWork
+</h4>
+
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirishC&hide=TeX&layout=compact)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=SirishC.SirishC)
