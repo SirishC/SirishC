@@ -1,4 +1,5 @@
-<h1>Hi, I'm Sirish C.
+<!-- <h1>Hi, I'm Sirish C. -->
+![alt text](https://raw.githubusercontent.com/ravibalg-aj/SirishC/master/siri_poster.png)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sirish.C-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sirish-c/)](https://www.linkedin.com/in/sirish-c/)
 [![Instagram Badge](https://img.shields.io/badge/-sirish_c_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sirish_c_/)](https://www.instagram.com/sirish_c_/)
