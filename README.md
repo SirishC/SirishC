@@ -7,7 +7,7 @@
 </h1>
 
 <h4>
-:heart: Coding | Web Development | OpenToWork
+:heart: Coding | Web Development | Learning.
 </h4>
 
 
